@@ -33,5 +33,6 @@ int main()
                     printf("%3d\n",a[i][j]);
                 }
         }
+    
     return 0;
 }
